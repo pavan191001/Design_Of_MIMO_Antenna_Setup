@@ -1,0 +1,46 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 05:31 PM Wednesday, 21. September 2022
+
+  Evaluating 'Gain (IEEE),Theta=90,Phi=0.0': 23 s
+
+  Total time: 24 s  ( = 0 h, 0 m, 24 s )
+
+Template based post-processing finished at: 05:31 PM Wednesday, 21. September 2022
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 09:32 AM Friday, 23. September 2022
+
+  Evaluating 'Gain (IEEE),Theta=0.0,Phi=0.0': 19 s
+  Evaluating 'Axial Ratio': 14 s
+
+  Total time: 34 s  ( = 0 h, 0 m, 34 s )
+
+Template based post-processing finished at: 09:32 AM Friday, 23. September 2022
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 09:46 AM Friday, 23. September 2022
+
+  Evaluating 'Gain (IEEE),Theta=0.0,Phi=0.0': 21 s
+  Evaluating 'Axial Ratio': 12 s
+
+  Total time: 35 s  ( = 0 h, 0 m, 35 s )
+
+Template based post-processing finished at: 09:46 AM Friday, 23. September 2022
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 09:48 AM Friday, 23. September 2022
+
+  Evaluating 'Gain (IEEE),Theta=0.0,Phi=0.0': 20 s
+  Evaluating 'Axial Ratio': 11 s
+
+  Total time: 33 s  ( = 0 h, 0 m, 33 s )
+
+Template based post-processing finished at: 09:49 AM Friday, 23. September 2022
+----------------------------------------------------------------------------------------

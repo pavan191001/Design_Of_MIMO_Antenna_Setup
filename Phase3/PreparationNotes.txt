@@ -1,0 +1,29 @@
+
+1. S-parameters (or scattering parameters) are used to describe how energy can propagate through an electric network.S-Parameters are used 
+   to describe the relationship between different ports, when it becomes especially important to describe a network in terms of amplitude 
+   and phase versus frequencies, rather than voltages and currents.
+
+2. VSWR (Voltage Standing Wave Ratio) is a measure of how efficiently radio-frequency power is transmitted from a power source, through 
+   a transmission line, into a load
+
+3. The radiation pattern or antenna pattern is the graphical representation of the radiation properties of the antenna as a function 
+   of space. That is, the antenna's pattern describes how the antenna radiates energy out into space (or how it receives energy).
+   
+	3db beam width: Antenna 3dB Beam width is the angle between the half-power of an antenna pattern or beam over which the relative 
+                   power is at or above 50% of the peak power. (angular width where relative power is at or above 50%).
+
+  	beam width: Beamwidth is the angular separation at which the magnitude of the directivity pattern decreases by a certain value 
+     from the peak of the main beam.
+
+4. Gain(dbi): Gain (dBi) The ratio of the signal received or transmitted by a given antenna as compared to an isotropic or dipole antenna.
+
+5. Current density (A/m^2): The amount of electric current traveling per unit cross-section area. Current densities are strongly affected 
+   by the structure and the shape of antenna. 
+
+	in comparing results, we can see decrease in current density in 2-1 antenna because as the structure and area of antenna is increased 
+	which decrease the antenna current density.
+
+6. Isotropic radiation is radiation that has the same intensity regardless of the direction of measurement.
+
+7. Isotropic antenna: An isotropic antenna is defined as a hypothetical antenna having the same radiation in all directions 
+    (i.e., uniform radiation).

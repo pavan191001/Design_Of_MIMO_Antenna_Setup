@@ -1,0 +1,27 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 10:23 AM Friday, 23. September 2022
+
+  Evaluating 'Gain (IEEE),Theta=0,Phi=0.0': 19 s
+
+  Total time: 19 s  ( = 0 h, 0 m, 19 s )
+
+Template based post-processing finished at: 10:23 AM Friday, 23. September 2022
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 10:28 AM Friday, 23. September 2022
+
+  Evaluating 'Gain (IEEE),Theta=0,Phi=0.0': 27 s
+
+  Total time: 27 s  ( = 0 h, 0 m, 27 s )
+
+Template based post-processing finished at: 10:29 AM Friday, 23. September 2022
+----------------------------------------------------------------------------------------

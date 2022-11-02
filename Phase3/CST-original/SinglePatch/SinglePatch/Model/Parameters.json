@@ -1,0 +1,60 @@
+{
+    "parameters": [
+        {
+            "expr": "30.04",
+            "name": "Wsub",
+            "value": "30.04"
+        },
+        {
+            "expr": "26.08",
+            "name": "Lsub",
+            "value": "26.08"
+        },
+        {
+            "expr": "0.0035",
+            "name": "t",
+            "value": "0.0035"
+        },
+        {
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "expr": "20.44",
+            "name": "Wp",
+            "value": "20.44"
+        },
+        {
+            "expr": "16.48",
+            "name": "Lp",
+            "value": "16.48"
+        },
+        {
+            "expr": "2.2",
+            "name": "Epsilon_r",
+            "value": "2.2"
+        },
+        {
+            "expr": "4.971",
+            "name": "Wf",
+            "value": "4.971"
+        },
+        {
+            "expr": "10.8",
+            "name": "Lf",
+            "value": "10.8"
+        },
+        {
+            "expr": "6",
+            "name": "y0",
+            "value": "6"
+        },
+        {
+            "expr": "0.5",
+            "name": "x1",
+            "value": "0.5"
+        }
+    ],
+    "version": 1
+}
